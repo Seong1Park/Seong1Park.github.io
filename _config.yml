@@ -18,7 +18,7 @@ show_excerpts: false        # show article excerpts on the home page
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", title: "About me"}
-  - {file: "/seongwon.pdf", title: "CV"}  
+  - {file: "seongwon.pdf", title: "CV"}  
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:parkse32@msu.edu"}
