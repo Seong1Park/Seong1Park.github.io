@@ -17,8 +17,8 @@ show_excerpts: false        # show article excerpts on the home page
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "/seongwon.pdf", title: "CV", icon: home}
-  - {file: "README.md", title: "About me", icon: address-card}
+  - {file: "/seongwon.pdf", title: "CV"}
+  - {file: "README.md", title: "About me"}
   
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
